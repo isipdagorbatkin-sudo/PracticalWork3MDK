@@ -1,0 +1,11 @@
+{
+  "name": "Поиск животных",
+  "short_name": "Животные",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F4F7FB",
+  "theme_color": "#315A8A",
+  "description": "Поиск животных через API Ninjas",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
